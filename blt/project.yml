@@ -10,7 +10,7 @@ project:
 git:
   default_branch: master
   remotes:
-    - https://github.com/stevengnelson/drupal8.git
+    - https://github.com/stevengnelson/drupal8-deploy.git
 drush:
   aliases:
     remote: '${project.machine_name}.test'
